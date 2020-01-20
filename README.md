@@ -10,3 +10,4 @@ Awesome JS performance readings
 * [Performance Calendar: A collection of front end performance posts](https://calendar.perfplanet.com/2018/)
 * [How we parallelized our node service by 30x](https://blog.plaid.com/how-we-parallelized-our-node-service-by-30x/)
 * [600k concurrent websocket connections on AWS using Node.js](https://blog.jayway.com/2015/04/13/600k-concurrent-websocket-connections-on-aws-using-node-js/)
+* [I have been underestimating JS Performance](https://adlrocha.substack.com/p/adlrocha-i-have-been-underestimating)
