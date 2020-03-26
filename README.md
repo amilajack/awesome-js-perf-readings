@@ -1,6 +1,8 @@
 # awesome-js-perf-readings
 Awesome JS performance readings
 
+## Debugging and Tracing
+
 * [VSCode's Text Buffer Reimplementation](https://code.visualstudio.com/blogs/2018/03/23/text-buffer-reimplementation)
 * [Seena Burns: Debugging Electron Memory Usage](http://seenaburns.com/debugging-electron-memory-usage/)
 * [Seena Burns: Thumbnailing is Isolate: Background Workers in Electron](http://seenaburns.com/2019/01/02/thumbnailing-in-isolate/)
@@ -11,3 +13,8 @@ Awesome JS performance readings
 * [How we parallelized our node service by 30x](https://blog.plaid.com/how-we-parallelized-our-node-service-by-30x/)
 * [600k concurrent websocket connections on AWS using Node.js](https://blog.jayway.com/2015/04/13/600k-concurrent-websocket-connections-on-aws-using-node-js/)
 * [I have been underestimating JS Performance](https://adlrocha.substack.com/p/adlrocha-i-have-been-underestimating)
+
+
+## Memory Leaks
+
+* [Fixing Memory Leaks in Web Apps](https://nolanlawson.com/2020/02/19/fixing-memory-leaks-in-web-applications/)
